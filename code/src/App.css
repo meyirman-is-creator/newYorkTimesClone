@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.header{
+  justify-content: center;
+}
+.header__top{
+  height: 40px;
+  position:relative;
+}
+.header__menu{
+  justify-content:center;
+}
